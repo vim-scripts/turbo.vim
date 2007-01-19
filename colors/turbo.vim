@@ -1,7 +1,8 @@
 " Vim color file
 " Maintainer:	Bryant Casteel
 " Web Site:     http://bethings.provoplatinum.com
-" Last Change:	2004 Jan. 22
+" Last Change:	2007 Jan. 19
+"               Changed to use Unix-compatible newlines
 
 " turbo -- Intended to look like the color scheme
 " from Borland's Turbo C++ and Turbo Pascal.
