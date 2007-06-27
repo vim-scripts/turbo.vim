@@ -80,7 +80,7 @@ hi Special      guifg=magenta   gui=none        ctermfg=magenta     cterm=none
 hi Identifier   guifg=green                     ctermfg=green       cterm=none
 hi Statement    guifg=white     gui=bold        ctermfg=grey        cterm=none
 hi PreProc      guifg=darkgreen gui=none        ctermfg=darkgreen   cterm=none
-hi type         guifg=grey      gui=bold        ctermfg=darkgrey    cterm=none
+hi type         guifg=grey      gui=bold        ctermfg=grey    cterm=none
 hi Underlined                   gui=underline               cterm=none
 hi Ignore                       gui=reverse                 cterm=reverse
 
